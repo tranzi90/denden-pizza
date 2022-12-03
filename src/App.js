@@ -8,7 +8,7 @@ function App() {
             <div className="header__logo">
               <img width="38" src="./img/pizza-logo.svg" alt="Pizza logo"/>
               <div>
-                <h1>React Pizza</h1>
+                <h1>DenDen Pizza</h1>
                 <p>The fastest delivery of the best pizza</p>
               </div>
             </div>
